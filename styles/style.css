@@ -1,0 +1,28 @@
+.custom-font {
+    font-family: 'roboto';
+}
+
+.h1-font {
+    font-size: 50px;
+    letter-spacing: 1.5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons span {
+    font-size:12px;
+}
+
+.icons {
+    height: 20px;
+    margin-right: 5px;
+    object-fit: scale-down;
+}
+
+.font-rubik {
+    font-family:'rubik';
+}
