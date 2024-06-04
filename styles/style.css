@@ -26,3 +26,12 @@
 .font-rubik {
     font-family:'rubik';
 }
+
+.border-right {
+    border:none;
+}
+@media (min-width: 576px) {
+    .border-right {
+        border-right: 1px solid rgb(207, 203, 203);
+    }
+}
