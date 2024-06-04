@@ -30,7 +30,7 @@
 .border-right {
     border:none;
 }
-@media (min-width: 576px) {
+@media (min-width: 768px) {
     .border-right {
         border-right: 1px solid rgb(207, 203, 203);
     }
