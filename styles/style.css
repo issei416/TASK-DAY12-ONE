@@ -27,9 +27,14 @@
     font-family:'rubik';
 }
 
+.anchor:hover {
+    scale:1.05;
+}
+
 .border-right {
     border:none;
 }
+
 @media (min-width: 768px) {
     .border-right {
         border-right: 1px solid rgb(207, 203, 203);
